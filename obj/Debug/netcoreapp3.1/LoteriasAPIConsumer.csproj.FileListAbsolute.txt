@@ -1,0 +1,16 @@
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\bin\Debug\netcoreapp3.1\LoteriasAPIConsumer.exe
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\obj\Debug\netcoreapp3.1\LoteriasAPIConsumer.csprojAssemblyReference.cache
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\obj\Debug\netcoreapp3.1\LoteriasAPIConsumer.AssemblyInfoInputs.cache
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\obj\Debug\netcoreapp3.1\LoteriasAPIConsumer.AssemblyInfo.cs
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\bin\Debug\netcoreapp3.1\LoteriasAPIConsumer.deps.json
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\bin\Debug\netcoreapp3.1\LoteriasAPIConsumer.runtimeconfig.json
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\bin\Debug\netcoreapp3.1\LoteriasAPIConsumer.runtimeconfig.dev.json
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\bin\Debug\netcoreapp3.1\LoteriasAPIConsumer.dll
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\bin\Debug\netcoreapp3.1\LoteriasAPIConsumer.pdb
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\obj\Debug\netcoreapp3.1\LoteriasAPIConsumer.csproj.CopyComplete
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\obj\Debug\netcoreapp3.1\LoteriasAPIConsumer.dll
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\obj\Debug\netcoreapp3.1\LoteriasAPIConsumer.pdb
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\obj\Debug\netcoreapp3.1\LoteriasAPIConsumer.genruntimeconfig.cache
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\larag\source\repos\LoteriasAPIConsumer\LoteriasAPIConsumer\obj\Debug\netcoreapp3.1\LoteriasAPIConsumer.csproj.CoreCompileInputs.cache
